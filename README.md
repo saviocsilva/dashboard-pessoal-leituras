@@ -35,7 +35,8 @@ Visualização de Dados: Altair, gráficos nativos do Streamlit
 
 Demonstração ao Vivo:
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/savio/dashboard-pessoal-leituras/main/books.py)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/savicsilva/dashboard-pessoal-leituras/main/books.py)
+
 
 
 
