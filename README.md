@@ -20,3 +20,15 @@ Análise da diversidade de autores (gênero e etnia).
 Análise financeira de gastos vs. economia por fonte de aquisição.
 
 Distribuições de formatos de leitura e notas.
+
+Screenshot
+![dashboard_screenshot.png](dashboard_screenshot.png)
+
+Tecnologias Utilizadas (Tech Stack)
+Linguagem: Python
+
+Dashboard: Streamlit
+
+Manipulação de Dados: Pandas
+
+Visualização de Dados: Altair, gráficos nativos do Streamlit
