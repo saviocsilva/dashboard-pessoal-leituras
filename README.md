@@ -1,6 +1,7 @@
 
 Dashboard Pessoal de Hábitos de Leitura
-Este é um dashboard web interativo construído para rastrear, analisar e visualizar meus hábitos de leitura pessoais. A aplicação foi desenvolvida com Python e Streamlit, e busca dados ao vivo de uma planilha pessoal do Google Sheets, garantindo que o dashboard esteja sempre atualizado.
+
+Este é um dashboard web interativo construído para rastrear, analisar e visualizar oss hábitos de leitura pessoais de um indivíduo. A aplicação foi desenvolvida com Python e Streamlit, e busca dados ao vivo de uma planilha pessoal do Google Sheets, garantindo que o dashboard esteja sempre atualizado.
 
 Principais Funcionalidades
 Conexão com Dados ao Vivo: Carrega e processa automaticamente os dados de leitura de uma planilha pública do Google Sheets, demonstrando a habilidade de trabalhar com fontes de dados online e em tempo real.
