@@ -32,3 +32,7 @@ Dashboard: Streamlit
 Manipulação de Dados: Pandas
 
 Visualização de Dados: Altair, gráficos nativos do Streamlit
+
+Demonstração ao Vivo:
+https://leitura.streamlit.app/
+
